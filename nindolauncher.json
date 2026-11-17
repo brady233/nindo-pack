@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "name": "Nindo",
+  "version": "1.0.0",
+  "minecraft": "1.20.1",
+  "loader": "forge",
+  "loaderVersion": "47.4.28",
+  "note": "",
+  "autoInstall": true,
+  "required": true,
+  "updatedAt": "2026-11-17T05:19:10.552Z",
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-17T05:19:10.556Z",
+      "changes": [
+        "Pack created"
+      ]
+    }
+  ],
+  "mods": []
+}
