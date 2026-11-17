@@ -1,15 +1,25 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
-  "note": "",
+  "note": "Test for new launcher",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-17T05:19:10.552Z",
+  "updatedAt": "2026-11-17T05:20:11.130Z",
   "changelog": [
+    {
+      "version": "1.1.0",
+      "date": "2026-11-17T05:20:11.130Z",
+      "changes": [
+        "+ Nindo-1.14.0",
+        "+ CustomNPCs-1.20.1-GBPort-Unofficial-20251031",
+        "+ NationTabClient-1.0.0"
+      ],
+      "note": "Test for new launcher"
+    },
     {
       "version": "1.0.0",
       "date": "2026-11-17T05:19:10.556Z",
@@ -18,5 +28,37 @@
       ]
     }
   ],
-  "mods": []
+  "mods": [
+    {
+      "id": "file:Nindo-1.14.0.jar",
+      "name": "Nindo-1.14.0",
+      "version": "",
+      "fileName": "Nindo-1.14.0.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.14.0.jar",
+      "sha1": "723947e1ca6cdcc8de75596c34dc171d026345a1",
+      "size": 42872098,
+      "source": "upload"
+    },
+    {
+      "id": "file:CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar",
+      "name": "CustomNPCs-1.20.1-GBPort-Unofficial-20251031",
+      "version": "",
+      "fileName": "CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar",
+      "sha1": "da1eafdfca0800511d90299d06f980b1ef35a47c",
+      "size": 10808462,
+      "source": "upload"
+    },
+    {
+      "id": "file:NationTabClient-1.0.0.jar",
+      "name": "NationTabClient-1.0.0",
+      "version": "",
+      "fileName": "NationTabClient-1.0.0.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/NationTabClient-1.0.0.jar",
+      "sha1": "2700ab6ce8352e0b7abea6234c1b431bff7fa325",
+      "size": 5065,
+      "source": "upload"
+    }
+  ],
+  "publishedBy": "brady233"
 }
