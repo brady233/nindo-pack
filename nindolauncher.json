@@ -1,15 +1,25 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-18T05:51:02.862Z",
+  "updatedAt": "2026-11-18T06:00:33.216Z",
   "changelog": [
+    {
+      "version": "1.5.0",
+      "date": "2026-11-18T06:00:33.216Z",
+      "changes": [
+        "+ Nindo-1.14.0",
+        "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch →",
+        "− Nindo-1.14.0__2_"
+      ],
+      "note": ""
+    },
     {
       "version": "1.4.0",
       "date": "2026-11-18T05:51:02.862Z",
@@ -100,23 +110,23 @@
       "source": "upload"
     },
     {
+      "id": "file:Nindo-1.14.0.jar",
+      "name": "Nindo-1.14.0",
+      "version": "",
+      "fileName": "Nindo-1.14.0.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.14.0.jar",
+      "sha1": "1d99fa9e9e70bf2841a1508995c8099dbca57a4d",
+      "size": 42939118,
+      "source": "upload"
+    },
+    {
       "id": "file:CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch.jar",
       "name": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch",
       "version": "",
       "fileName": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch.jar",
-      "sha1": "9f12284cd9b12e816f07f97a340b1619c072f2b8",
-      "size": 10833985,
-      "source": "upload"
-    },
-    {
-      "id": "file:Nindo-1.14.0__2_.jar",
-      "name": "Nindo-1.14.0__2_",
-      "version": "",
-      "fileName": "Nindo-1.14.0__2_.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.14.0__2_.jar",
-      "sha1": "9535265606f13c125547f45bded134019b5a418e",
-      "size": 42938423,
+      "sha1": "0d12b611ac072f66be55d3aff760726ed8d4d586",
+      "size": 10829727,
       "source": "upload"
     }
   ],
