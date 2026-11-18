@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-18T06:00:33.216Z",
+  "updatedAt": "2026-11-18T06:04:19.394Z",
   "changelog": [
+    {
+      "version": "1.6.0",
+      "date": "2026-11-18T06:04:19.394Z",
+      "changes": [
+        "Server: Nindo (nindo.mcserver.host)"
+      ],
+      "note": ""
+    },
     {
       "version": "1.5.0",
       "date": "2026-11-18T06:00:33.216Z",
@@ -131,5 +139,10 @@
     }
   ],
   "publishedBy": "brady233",
-  "servers": []
+  "servers": [
+    {
+      "name": "Nindo",
+      "ip": "nindo.mcserver.host"
+    }
+  ]
 }
