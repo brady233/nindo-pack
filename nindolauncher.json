@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-18T20:18:14.253Z",
+  "updatedAt": "2026-11-18T20:25:10.839Z",
   "changelog": [
+    {
+      "version": "1.9.0",
+      "date": "2026-11-18T20:25:10.839Z",
+      "changes": [
+        "− chaoschatplus-forge-1.20.1-1.1.1"
+      ],
+      "note": ""
+    },
     {
       "version": "1.8.0",
       "date": "2026-11-18T20:18:14.253Z",
@@ -153,16 +161,6 @@
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch.jar",
       "sha1": "746c281da79bf008f256fdb785e78d0f07f24af3",
       "size": 10830515,
-      "source": "upload"
-    },
-    {
-      "id": "file:chaoschatplus-forge-1.20.1-1.1.1.jar",
-      "name": "chaoschatplus-forge-1.20.1-1.1.1",
-      "version": "",
-      "fileName": "chaoschatplus-forge-1.20.1-1.1.1.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/chaoschatplus-forge-1.20.1-1.1.1.jar",
-      "sha1": "89e48cb01718262ef7ee566bf6268932e353adb9",
-      "size": 4351380,
       "source": "upload"
     }
   ],
