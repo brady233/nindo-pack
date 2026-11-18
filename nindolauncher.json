@@ -1,15 +1,25 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
-  "note": "Testing Launcher, New mods, new version",
+  "note": "Fixed Custom NPCs: dialogs no longer crash the server, and handing in a quest now opens the NPC's dialog. Removed the duplicate Custom NPCs jar.",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-17T22:42:04.197Z",
+  "updatedAt": "2026-11-18T04:04:31.859Z",
   "changelog": [
+    {
+      "version": "1.3.0",
+      "date": "2026-11-18T04:04:31.859Z",
+      "changes": [
+        "+ CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch",
+        "− CustomNPCs-1.20.1-GBPort-Unofficial-20251031",
+        "− CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711__1_"
+      ],
+      "note": "Fixed Custom NPCs: dialogs no longer crash the server, and handing in a quest now opens the NPC's dialog. Removed the duplicate Custom NPCs jar."
+    },
     {
       "version": "1.2.1",
       "date": "2026-11-17T22:42:04.197Z",
@@ -51,16 +61,6 @@
       "source": "upload"
     },
     {
-      "id": "file:CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar",
-      "name": "CustomNPCs-1.20.1-GBPort-Unofficial-20251031",
-      "version": "",
-      "fileName": "CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar",
-      "sha1": "da1eafdfca0800511d90299d06f980b1ef35a47c",
-      "size": 10808462,
-      "source": "upload"
-    },
-    {
       "id": "file:NationTabClient-1.0.0.jar",
       "name": "NationTabClient-1.0.0",
       "version": "",
@@ -81,16 +81,6 @@
       "source": "upload"
     },
     {
-      "id": "file:CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711__1_.jar",
-      "name": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711__1_",
-      "version": "",
-      "fileName": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711__1_.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711__1_.jar",
-      "sha1": "c1a973b55f6f67e9fdeb197195e490ba92146381",
-      "size": 10873769,
-      "source": "upload"
-    },
-    {
       "id": "file:armourersworkshop-forge-1.20.1-3.2.7-beta.jar",
       "name": "armourersworkshop-forge-1.20.1-3.2.7-beta",
       "version": "",
@@ -108,6 +98,16 @@
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/visual_item_edit-2.0.0.0-forge-1.20.1.jar",
       "sha1": "6ab5a19bfd9fe4d297f18c22d38101c5a17dd4d0",
       "size": 341642,
+      "source": "upload"
+    },
+    {
+      "id": "file:CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch.jar",
+      "name": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch",
+      "version": "",
+      "fileName": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch.jar",
+      "sha1": "9f12284cd9b12e816f07f97a340b1619c072f2b8",
+      "size": 10833985,
       "source": "upload"
     }
   ],
