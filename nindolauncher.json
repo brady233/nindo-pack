@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-18T06:04:19.394Z",
+  "updatedAt": "2026-11-18T06:23:05.156Z",
   "changelog": [
+    {
+      "version": "1.7.0",
+      "date": "2026-11-18T06:23:05.156Z",
+      "changes": [
+        "Server: Nindo - A Minecraft Naruto Server (nindo.mcserver.host)"
+      ],
+      "note": ""
+    },
     {
       "version": "1.6.0",
       "date": "2026-11-18T06:04:19.394Z",
@@ -141,7 +149,7 @@
   "publishedBy": "brady233",
   "servers": [
     {
-      "name": "Nindo",
+      "name": "Nindo - A Minecraft Naruto Server",
       "ip": "nindo.mcserver.host"
     }
   ]
