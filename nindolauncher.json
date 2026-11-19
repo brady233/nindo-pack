@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-18T20:25:10.839Z",
+  "updatedAt": "2026-11-19T04:06:38.000Z",
   "changelog": [
+    {
+      "version": "1.10.0",
+      "date": "2026-11-19T04:06:38.000Z",
+      "changes": [
+        "Nindo-1.14.0 →"
+      ],
+      "note": ""
+    },
     {
       "version": "1.9.0",
       "date": "2026-11-18T20:25:10.839Z",
@@ -149,8 +157,8 @@
       "version": "",
       "fileName": "Nindo-1.14.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.14.0.jar",
-      "sha1": "bfe6aa56025ca866a08a5714ef2cbf67c1368d4f",
-      "size": 43509058,
+      "sha1": "6eca797f1dfeea861284e3922f3648ceaa73d57b",
+      "size": 44452666,
       "source": "upload"
     },
     {
