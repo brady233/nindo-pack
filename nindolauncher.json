@@ -1,15 +1,24 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-19T04:06:38.000Z",
+  "updatedAt": "2026-11-20T05:57:25.214Z",
   "changelog": [
+    {
+      "version": "1.11.0",
+      "date": "2026-11-20T05:57:25.214Z",
+      "changes": [
+        "Nindo-1.27.0 →",
+        "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch3 →"
+      ],
+      "note": ""
+    },
     {
       "version": "1.10.0",
       "date": "2026-11-19T04:06:38.000Z",
@@ -152,23 +161,23 @@
       "source": "upload"
     },
     {
-      "id": "file:Nindo-1.14.0.jar",
-      "name": "Nindo-1.14.0",
+      "id": "file:Nindo-1.27.0.jar",
+      "name": "Nindo-1.27.0",
       "version": "",
-      "fileName": "Nindo-1.14.0.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.14.0.jar",
-      "sha1": "6eca797f1dfeea861284e3922f3648ceaa73d57b",
-      "size": 44452666,
+      "fileName": "Nindo-1.27.0.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
+      "sha1": "0ea3726db33141f8eee6151adfcaf1b2488aacca",
+      "size": 46950935,
       "source": "upload"
     },
     {
-      "id": "file:CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch.jar",
-      "name": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch",
+      "id": "file:CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch3.jar",
+      "name": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch3",
       "version": "",
-      "fileName": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch.jar",
-      "sha1": "746c281da79bf008f256fdb785e78d0f07f24af3",
-      "size": 10830515,
+      "fileName": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch3.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch3.jar",
+      "sha1": "1deacefc5717639e923fec438a3876f7e82d5264",
+      "size": 10835053,
       "source": "upload"
     }
   ],
