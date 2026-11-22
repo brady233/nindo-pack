@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.13.0",
+  "version": "1.14.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-22T06:20:00.000Z",
+  "updatedAt": "2026-11-22T15:40:00.000Z",
   "changelog": [
+    {
+      "version": "1.14.0",
+      "date": "2026-11-22T15:40:00.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "Conch mace rebuilt, Isobu's eye back, no second head in beast form, armor on your arms in first person, Otsutsuki robes for the Otsutsuki only, raids can't get stuck, DNA gives the missing release scroll, the element reroll asks which element, no bomb + jutsu multicast, baby zombie chakra networks, and a Speed Cap key ([)."
+    },
     {
       "version": "1.13.0",
       "date": "2026-11-22T06:20:00.000Z",
@@ -192,8 +200,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "da6254f8f888b28a1661cf57210ea76efdd381eb",
-      "size": 49231825,
+      "sha1": "24bf4f86a8005360b1b2f9b2ea882a00e2f5f244",
+      "size": 48213920,
       "source": "upload"
     }
   ],
