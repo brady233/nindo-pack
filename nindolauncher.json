@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.14.0",
+  "version": "1.15.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-22T15:40:00.000Z",
+  "updatedAt": "2026-11-22T21:50:00.000Z",
   "changelog": [
+    {
+      "version": "1.15.0",
+      "date": "2026-11-22T21:50:00.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "Raids: no more getting stuck in the walls, loot comes in stackable crates, bandits don't drop kunai. Chunin Exam three times a week. Smaller charging aura, bond messages stop at max, bosses give real XP, the Ten-Tails can't linger in villages, and the rare Medical Scroll."
+    },
     {
       "version": "1.14.0",
       "date": "2026-11-22T15:40:00.000Z",
@@ -200,8 +208,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "24bf4f86a8005360b1b2f9b2ea882a00e2f5f244",
-      "size": 48213920,
+      "sha1": "f1ab66a639435c91b58902fc170398828d460291",
+      "size": 48233749,
       "source": "upload"
     }
   ],
