@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.15.0",
+  "version": "1.16.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-22T21:50:00.000Z",
+  "updatedAt": "2026-11-23T21:15:00.000Z",
   "changelog": [
+    {
+      "version": "1.16.0",
+      "date": "2026-11-23T21:15:00.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "The Gedo Statue now sits cross-legged with its palms up: ten finger seats for the Akatsuki, and sealing a tailed beast takes 3+ members on the fingers (40 min with 3, down to 10 with 7+). Staff can place a permanent one with /nindo gedo place."
+    },
     {
       "version": "1.15.0",
       "date": "2026-11-22T21:50:00.000Z",
@@ -208,8 +216,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "f1ab66a639435c91b58902fc170398828d460291",
-      "size": 48233749,
+      "sha1": "8ee7fe5b7ee1cf84f6f2546c48ca8871bfd11c82",
+      "size": 48259288,
       "source": "upload"
     }
   ],
