@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.17.0",
+  "version": "1.17.1",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-24T05:10:00.000Z",
+  "updatedAt": "2026-11-24T20:35:00.000Z",
   "changelog": [
+    {
+      "version": "1.17.1",
+      "date": "2026-11-24T20:35:00.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "Fixed the seated Gedo Statue not showing up."
+    },
     {
       "version": "1.17.0",
       "date": "2026-11-24T05:10:00.000Z",
@@ -224,8 +232,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "e89aba19527362c400191b4a32c050b0349a2651",
-      "size": 48261950,
+      "sha1": "22e6beb5ac9068c927f96f21479c5d9a8fac9392",
+      "size": 48262032,
       "source": "upload"
     }
   ],
