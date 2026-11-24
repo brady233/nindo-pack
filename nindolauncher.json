@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.16.0",
+  "version": "1.17.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-23T21:15:00.000Z",
+  "updatedAt": "2026-11-24T05:10:00.000Z",
   "changelog": [
+    {
+      "version": "1.17.0",
+      "date": "2026-11-24T05:10:00.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "Fixed the crash when a Two-Headed Wolf gets thrown (by Palms Revolving Heaven and the like). DNA pity: every rejected vial makes the next likelier, guaranteed after 5 in a row. Raid pity: a legendary (kekkei genkai) DNA guaranteed every 50 waves without one."
+    },
     {
       "version": "1.16.0",
       "date": "2026-11-23T21:15:00.000Z",
@@ -216,8 +224,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "8ee7fe5b7ee1cf84f6f2546c48ca8871bfd11c82",
-      "size": 48259288,
+      "sha1": "e89aba19527362c400191b4a32c050b0349a2651",
+      "size": 48261950,
       "source": "upload"
     }
   ],
