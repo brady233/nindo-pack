@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.17.1",
+  "version": "1.18.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-24T20:35:00.000Z",
+  "updatedAt": "2026-11-25T02:45:00.000Z",
   "changelog": [
+    {
+      "version": "1.18.0",
+      "date": "2026-11-25T02:45:00.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "The Gedo Statue rises from the waist up, 1.5x bigger, hands held out palms up, with a seat on each of its ten fingertips (right-click to sit). Its own eyelids open one eye for each beast sealed. Sealing: the nine phantom dragons come out of its mouth and bite into the target, then the beast's chakra rises in a column into the mouth. New: bind a jinchuriki under 30% health (Akatsuki, Sneak + right-click) and carry them over your shoulder to the statue."
+    },
     {
       "version": "1.17.1",
       "date": "2026-11-24T20:35:00.000Z",
@@ -232,8 +240,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "22e6beb5ac9068c927f96f21479c5d9a8fac9392",
-      "size": 48262032,
+      "sha1": "c66a05181f70875795b22756f2ebf6d6dc06a0fb",
+      "size": 48746664,
       "source": "upload"
     }
   ],
