@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.18.0",
+  "version": "1.18.1",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-25T02:45:00.000Z",
+  "updatedAt": "2026-11-26T03:10:35.000Z",
   "changelog": [
+    {
+      "version": "1.18.1",
+      "date": "2026-11-26T03:10:35.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "New: Dust Release (Fire + Earth + Wind kekkei tota, rarer DNA) with Primitive World Cone, Detachment of the Primitive World and Expanded Detachment. The ninja card now uses the scroll menu with red + buttons. Wanted levels (1-5 stars) for killing other players: bounties, sightings, the Bingo Book. Anyone can bind and carry a player under 30% health. Otsutsuki and the Ten-Tails host can fly. Eyes can't be stolen below level 25 or by someone 25+ levels apart. The Gedo Statue's wrists are fixed."
+    },
     {
       "version": "1.18.0",
       "date": "2026-11-25T02:45:00.000Z",
@@ -240,8 +248,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "c66a05181f70875795b22756f2ebf6d6dc06a0fb",
-      "size": 48746664,
+      "sha1": "f7c8d8d07f4c7051d0eedb487934e352828f2def",
+      "size": 48803749,
       "source": "upload"
     }
   ],
