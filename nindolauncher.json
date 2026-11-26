@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.18.2",
+  "version": "1.18.3",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-26T03:20:33.000Z",
+  "updatedAt": "2026-11-26T04:00:41.000Z",
   "changelog": [
+    {
+      "version": "1.18.3",
+      "date": "2026-11-26T04:00:41.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "Wanted stars removed: no more automatic bounties, sightings or Bingo Book. Reputation stays: your kills and reputation show on the ninja card. Killing someone with a bad name raises it (more the worse their name); killing an innocent or someone with a good name lowers it."
+    },
     {
       "version": "1.18.2",
       "date": "2026-11-26T03:20:33.000Z",
@@ -256,8 +264,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "7f2d440e48c4994da19596a2bb0cac2b5f669759",
-      "size": 48806217,
+      "sha1": "294596771c7a14d00be6598e29395d44ce52b0ce",
+      "size": 48801498,
       "source": "upload"
     }
   ],
