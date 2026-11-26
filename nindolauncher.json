@@ -1,15 +1,24 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.18.4",
+  "version": "1.18.5",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
-  "note": "",
+  "note": "added new mods",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-26T05:07:13.745Z",
+  "updatedAt": "2026-11-26T05:08:59.860Z",
   "changelog": [
+    {
+      "version": "1.18.5",
+      "date": "2026-11-26T05:08:59.860Z",
+      "changes": [
+        "+ NindoQuests-1.0.0",
+        "+ nindo-rifts-1.0.17"
+      ],
+      "note": "added new mods"
+    },
     {
       "version": "1.18.4",
       "date": "2026-11-26T05:07:13.745Z",
@@ -264,6 +273,26 @@
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
       "sha1": "294596771c7a14d00be6598e29395d44ce52b0ce",
       "size": 48801498,
+      "source": "upload"
+    },
+    {
+      "id": "file:NindoQuests-1.0.0.jar",
+      "name": "NindoQuests-1.0.0",
+      "version": "",
+      "fileName": "NindoQuests-1.0.0.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/NindoQuests-1.0.0.jar",
+      "sha1": "c7c438fe81ca94bcd2f578492edc5bdc941a1034",
+      "size": 843741,
+      "source": "upload"
+    },
+    {
+      "id": "file:nindo-rifts-1.0.17.jar",
+      "name": "nindo-rifts-1.0.17",
+      "version": "",
+      "fileName": "nindo-rifts-1.0.17.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/nindo-rifts-1.0.17.jar",
+      "sha1": "58ff9f9d750b8c8f59489c51291a06a741f590a4",
+      "size": 2852341,
       "source": "upload"
     }
   ],
