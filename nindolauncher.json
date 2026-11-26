@@ -1,15 +1,24 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.18.4",
+  "version": "1.18.5",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-26T05:16:05.000Z",
+  "updatedAt": "2026-11-26T07:26:10.000Z",
   "changelog": [
+    {
+      "version": "1.18.5",
+      "date": "2026-11-26T07:26:10.000Z",
+      "changes": [
+        "+ nindo-rifts-1.0.21",
+        "+ polytone-1.20-3.5.26"
+      ],
+      "note": "Nindo Rifts 1.0.21 (permanent rifts into a blue-dusk copy of the world, walk-through portals) and Polytone, which the rifts need on your side."
+    },
     {
       "version": "1.18.4",
       "date": "2026-11-26T05:16:05.000Z",
@@ -274,6 +283,26 @@
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
       "sha1": "4183cd8e277659e6d254422268fd7f8bd76b4f59",
       "size": 48805090,
+      "source": "upload"
+    },
+    {
+      "id": "file:nindo-rifts-1.0.21.jar",
+      "name": "nindo-rifts-1.0.21",
+      "version": "",
+      "fileName": "nindo-rifts-1.0.21.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/nindo-rifts-1.0.21.jar",
+      "sha1": "b0a90fd09db0f6a7e0a84f47368b53a291f84c46",
+      "size": 3883497,
+      "source": "upload"
+    },
+    {
+      "id": "file:polytone-1.20-3.5.26.jar",
+      "name": "polytone-1.20-3.5.26",
+      "version": "",
+      "fileName": "polytone-1.20-3.5.26.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/polytone-1.20-3.5.26.jar",
+      "sha1": "d5ea70bd8d4a29d436901fd2b6e180147c1bdd2c",
+      "size": 1169185,
       "source": "upload"
     }
   ],
