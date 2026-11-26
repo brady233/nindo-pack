@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.18.3",
+  "version": "1.18.4",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-26T04:00:41.000Z",
+  "updatedAt": "2026-11-26T05:07:13.745Z",
   "changelog": [
+    {
+      "version": "1.18.4",
+      "date": "2026-11-26T05:07:13.745Z",
+      "changes": [
+        "− visual_item_edit-2.0.0.0-forge-1.20.1"
+      ],
+      "note": ""
+    },
     {
       "version": "1.18.3",
       "date": "2026-11-26T04:00:41.000Z",
@@ -236,16 +244,6 @@
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/armourersworkshop-forge-1.20.1-3.2.7-beta.jar",
       "sha1": "133fc28e4a848045a1b6c1700dcb6e89347728b0",
       "size": 5904485,
-      "source": "upload"
-    },
-    {
-      "id": "file:visual_item_edit-2.0.0.0-forge-1.20.1.jar",
-      "name": "visual_item_edit-2.0.0.0-forge-1.20.1",
-      "version": "",
-      "fileName": "visual_item_edit-2.0.0.0-forge-1.20.1.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/visual_item_edit-2.0.0.0-forge-1.20.1.jar",
-      "sha1": "6ab5a19bfd9fe4d297f18c22d38101c5a17dd4d0",
-      "size": 341642,
       "source": "upload"
     },
     {
