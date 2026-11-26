@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.18.7",
+  "version": "1.19.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-26T07:39:06.000Z",
+  "updatedAt": "2026-11-26T09:20:22.000Z",
   "changelog": [
+    {
+      "version": "1.19.0",
+      "date": "2026-11-26T09:20:22.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "Rinnegan rework begins: Shinra Tensei (a clear blast sphere, cracked earth, dirt flung out), Bansho Ten'in (rings of force dragging the target in) and Chibaku Tensei (black core, violet rim, cracks and crater) - push and pull now share a 5 s wait. Naraka Path: the real King of Hell rises in violet flame, its face splits and its jaw drops to the floor, and an arm reaches out to heal you. Amaterasu rework: all-black fire everywhere, near-instant ignition, hold to keep burning what you look at, burns grow and spread by touch, bigger ground patches; Kagutsuchi spikes skewer and launch spears; the Kagutsuchi wall is a full ring you charge by holding the key; arrows streak as black fire. Dust Release is smoother, follows you, does constant damage and hits harder. Tsukuyomi: you now see the attacker's copies stabbing you (no more staring at the back of the cross). Infinite Tsukuyomi drains chakra. Raid crates now give everything they list. The Chunin Exam written test asks about the Naruto story."
+    },
     {
       "version": "1.18.7",
       "date": "2026-11-26T07:39:06.000Z",
@@ -287,8 +295,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "4183cd8e277659e6d254422268fd7f8bd76b4f59",
-      "size": 48805090,
+      "sha1": "6b9d6c24a6b37c3480da2ec3c55f8f07a46a1e84",
+      "size": 49010409,
       "source": "upload"
     },
     {
