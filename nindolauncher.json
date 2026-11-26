@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.18.6",
+  "version": "1.18.7",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-26T07:33:28.000Z",
+  "updatedAt": "2026-11-26T07:39:06.000Z",
   "changelog": [
+    {
+      "version": "1.18.7",
+      "date": "2026-11-26T07:39:06.000Z",
+      "changes": [
+        "+ NindoQuests-1.0.0"
+      ],
+      "note": "NindoQuests is back."
+    },
     {
       "version": "1.18.6",
       "date": "2026-11-26T07:33:28.000Z",
@@ -281,6 +289,16 @@
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
       "sha1": "4183cd8e277659e6d254422268fd7f8bd76b4f59",
       "size": 48805090,
+      "source": "upload"
+    },
+    {
+      "id": "file:NindoQuests-1.0.0.jar",
+      "name": "NindoQuests-1.0.0",
+      "version": "",
+      "fileName": "NindoQuests-1.0.0.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/NindoQuests-1.0.0.jar",
+      "sha1": "c7c438fe81ca94bcd2f578492edc5bdc941a1034",
+      "size": 843741,
       "source": "upload"
     },
     {
