@@ -1,40 +1,22 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.18.6",
+  "version": "1.18.4",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
-  "note": "added mods",
+  "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-26T05:11:00.209Z",
+  "updatedAt": "2026-11-26T05:16:05.000Z",
   "changelog": [
     {
-      "version": "1.18.6",
-      "date": "2026-11-26T05:11:00.209Z",
-      "changes": [
-        "+ cloth-config-11.1.136-forge",
-        "+ polytone-1.20-3.5.26"
-      ],
-      "note": "added mods"
-    },
-    {
-      "version": "1.18.5",
-      "date": "2026-11-26T05:08:59.860Z",
-      "changes": [
-        "+ NindoQuests-1.0.0",
-        "+ nindo-rifts-1.0.17"
-      ],
-      "note": "added new mods"
-    },
-    {
       "version": "1.18.4",
-      "date": "2026-11-26T05:07:13.745Z",
+      "date": "2026-11-26T05:16:05.000Z",
       "changes": [
-        "− visual_item_edit-2.0.0.0-forge-1.20.1"
+        "Nindo-1.27.0 →"
       ],
-      "note": ""
+      "note": "Fixed getting kicked (\"dim is null\") when using /warp and other server teleports."
     },
     {
       "version": "1.18.3",
@@ -265,6 +247,16 @@
       "source": "upload"
     },
     {
+      "id": "file:visual_item_edit-2.0.0.0-forge-1.20.1.jar",
+      "name": "visual_item_edit-2.0.0.0-forge-1.20.1",
+      "version": "",
+      "fileName": "visual_item_edit-2.0.0.0-forge-1.20.1.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/visual_item_edit-2.0.0.0-forge-1.20.1.jar",
+      "sha1": "6ab5a19bfd9fe4d297f18c22d38101c5a17dd4d0",
+      "size": 341642,
+      "source": "upload"
+    },
+    {
       "id": "file:CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch3.jar",
       "name": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711-nindopatch3",
       "version": "",
@@ -280,48 +272,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "294596771c7a14d00be6598e29395d44ce52b0ce",
-      "size": 48801498,
-      "source": "upload"
-    },
-    {
-      "id": "file:NindoQuests-1.0.0.jar",
-      "name": "NindoQuests-1.0.0",
-      "version": "",
-      "fileName": "NindoQuests-1.0.0.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/NindoQuests-1.0.0.jar",
-      "sha1": "c7c438fe81ca94bcd2f578492edc5bdc941a1034",
-      "size": 843741,
-      "source": "upload"
-    },
-    {
-      "id": "file:nindo-rifts-1.0.17.jar",
-      "name": "nindo-rifts-1.0.17",
-      "version": "",
-      "fileName": "nindo-rifts-1.0.17.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/nindo-rifts-1.0.17.jar",
-      "sha1": "58ff9f9d750b8c8f59489c51291a06a741f590a4",
-      "size": 2852341,
-      "source": "upload"
-    },
-    {
-      "id": "file:cloth-config-11.1.136-forge.jar",
-      "name": "cloth-config-11.1.136-forge",
-      "version": "",
-      "fileName": "cloth-config-11.1.136-forge.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/cloth-config-11.1.136-forge.jar",
-      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
-      "size": 1181413,
-      "source": "upload"
-    },
-    {
-      "id": "file:polytone-1.20-3.5.26.jar",
-      "name": "polytone-1.20-3.5.26",
-      "version": "",
-      "fileName": "polytone-1.20-3.5.26.jar",
-      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/polytone-1.20-3.5.26.jar",
-      "sha1": "d5ea70bd8d4a29d436901fd2b6e180147c1bdd2c",
-      "size": 1169185,
+      "sha1": "4183cd8e277659e6d254422268fd7f8bd76b4f59",
+      "size": 48805090,
       "source": "upload"
     }
   ],
