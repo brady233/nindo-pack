@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.18.1",
+  "version": "1.18.2",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-26T03:10:35.000Z",
+  "updatedAt": "2026-11-26T03:20:33.000Z",
   "changelog": [
+    {
+      "version": "1.18.2",
+      "date": "2026-11-26T03:20:33.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "Reputation: your kill count and reputation now show on the ninja card. Killing a wanted criminal or someone with a bad name raises it; killing an innocent or someone with a good name lowers it (Hero, Honorable, Neutral, Notorious, Villain). Spars, the tournament, raids, the PvP world and village wars don't count."
+    },
     {
       "version": "1.18.1",
       "date": "2026-11-26T03:10:35.000Z",
@@ -248,8 +256,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "f7c8d8d07f4c7051d0eedb487934e352828f2def",
-      "size": 48803749,
+      "sha1": "7f2d440e48c4994da19596a2bb0cac2b5f669759",
+      "size": 48806217,
       "source": "upload"
     }
   ],
