@@ -1,15 +1,24 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.18.5",
+  "version": "1.18.6",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
-  "note": "added new mods",
+  "note": "added mods",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-26T05:08:59.860Z",
+  "updatedAt": "2026-11-26T05:11:00.209Z",
   "changelog": [
+    {
+      "version": "1.18.6",
+      "date": "2026-11-26T05:11:00.209Z",
+      "changes": [
+        "+ cloth-config-11.1.136-forge",
+        "+ polytone-1.20-3.5.26"
+      ],
+      "note": "added mods"
+    },
     {
       "version": "1.18.5",
       "date": "2026-11-26T05:08:59.860Z",
@@ -293,6 +302,26 @@
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/nindo-rifts-1.0.17.jar",
       "sha1": "58ff9f9d750b8c8f59489c51291a06a741f590a4",
       "size": 2852341,
+      "source": "upload"
+    },
+    {
+      "id": "file:cloth-config-11.1.136-forge.jar",
+      "name": "cloth-config-11.1.136-forge",
+      "version": "",
+      "fileName": "cloth-config-11.1.136-forge.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/cloth-config-11.1.136-forge.jar",
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "size": 1181413,
+      "source": "upload"
+    },
+    {
+      "id": "file:polytone-1.20-3.5.26.jar",
+      "name": "polytone-1.20-3.5.26",
+      "version": "",
+      "fileName": "polytone-1.20-3.5.26.jar",
+      "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/polytone-1.20-3.5.26.jar",
+      "sha1": "d5ea70bd8d4a29d436901fd2b6e180147c1bdd2c",
+      "size": 1169185,
       "source": "upload"
     }
   ],
