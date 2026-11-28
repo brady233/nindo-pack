@@ -1,15 +1,23 @@
 {
   "format": 1,
   "name": "Nindo",
-  "version": "1.19.0",
+  "version": "1.20.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.28",
   "note": "",
   "autoInstall": true,
   "required": true,
-  "updatedAt": "2026-11-26T09:20:22.000Z",
+  "updatedAt": "2026-11-28T06:51:07.000Z",
   "changelog": [
+    {
+      "version": "1.20.0",
+      "date": "2026-11-28T06:51:07.000Z",
+      "changes": [
+        "Nindo-1.27.0 →"
+      ],
+      "note": "Rinnegan rework continued. Asura Path redone: four extra arms with holes, bolts and steel bands burst out of you, a whipping bladed tail, and your right arm becomes a cannon firing heat-seeking missiles that chase their targets. Naraka Path: a bigger King of Hell rises slowly in glowing purple fog - you sit inside its mouth to heal (Sneak to get out). Tengai Shinsei: a massive stone meteor smashes down through a cloud bank from high in the sky. Almighty Push and Universal Pull: hold to charge a growing orb, a quick puff of smoke, no more ground cracks; the push is much stronger and faster with a burst of steam. Planetary Devastation is back to the old (lighter) version. No more \"No target found\" on Rinnegan moves. The Rinnegan has its own icon in the dojutsu slot. Tailed Beast Bomb redone: a dark purple ball fed by red and blue chakra orbs, growing as it charges. Tailed beast forms are slower. Dust Release is smoother. Raids work for everyone again (not just operators). Carrying: Sneak + right-click the one you carry to set them down. Right-click anywhere on the Gedo Statue to sit on a finger."
+    },
     {
       "version": "1.19.0",
       "date": "2026-11-26T09:20:22.000Z",
@@ -295,8 +303,8 @@
       "version": "",
       "fileName": "Nindo-1.27.0.jar",
       "url": "https://github.com/brady233/nindo-pack/releases/download/nindolauncher-mods/Nindo-1.27.0.jar",
-      "sha1": "6b9d6c24a6b37c3480da2ec3c55f8f07a46a1e84",
-      "size": 49010409,
+      "sha1": "96963cd883717619aebd55302cce3adf0b570863",
+      "size": 55097321,
       "source": "upload"
     },
     {
